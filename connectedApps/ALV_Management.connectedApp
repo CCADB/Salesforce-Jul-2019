@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail></contactEmail>
+    <contactPhone></contactPhone>
+    <description>Management Console For Audit Letter Validation</description>
+    <label>ALV Management</label>
+    <oauthConfig>
+        <callbackUrl>https://jixidbmanagement.azurewebsites.net/Account/Callback</callbackUrl>
+        <consumerKey>3MVG9JamK_x9K2XKK99OwezxYd5zktyzLOrhAAMUXPL912.EN.5H2SWwoo5DoeC3njh8EikQaywI8x.HXkS8G</consumerKey>
+        <isAdminApproved>true</isAdminApproved>
+        <scopes>Basic</scopes>
+        <scopes>OpenID</scopes>
+    </oauthConfig>
+    <profileName>Standard User - Google</profileName>
+    <profileName>Standard User - Cisco</profileName>
+    <profileName>Standard User - Apple</profileName>
+    <profileName>System Administrator - Mozilla</profileName>
+    <profileName>Standard User - Microsoft</profileName>
+    <profileName>Standard User - Mozilla</profileName>
+    <profileName>Standard User - Jixi</profileName>
+    <startUrl>https://jixidbmanagement.azurewebsites.net/</startUrl>
+</ConnectedApp>
